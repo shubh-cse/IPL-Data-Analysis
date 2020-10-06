@@ -3,7 +3,7 @@
 ## Problem Statement
 
 - This problem consist of data related to ipl matches across various seasons downloaded from kaggle consisting of features like matchid, teams played, season, winner, man of the match etc.
-- The task is to analyse the ipl data and make various inferences based on different features.
+- The task is to analyze the ipl data and make various inferences based on different features.
 
 ## Dataset
 
